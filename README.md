@@ -10,5 +10,5 @@ The dataset contains the abbreviation ESRB. The Entertainment Software Rating Bo
 3. Step 3. Analyze the data
 4. Step 4. Create a user profile for each region
 5. Step 5. Test the following hypotheses:
-  * —Average user ratings of the Xbox One and PC platforms are the same.
-  * —Average user ratings for the Action and Sports genres are different.
+   * —Average user ratings of the Xbox One and PC platforms are the same.
+   * —Average user ratings for the Action and Sports genres are different.
